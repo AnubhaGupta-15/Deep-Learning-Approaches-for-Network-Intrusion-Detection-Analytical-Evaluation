@@ -66,11 +66,11 @@ ACCURACY = (TP + TN) / (TP + TN + FP + FN)
 - **Feature Selection:** Logistic regression eliminated 79 irrelevant features, reducing feature space from 123 to 44 features.
 
 ### **2️⃣ Deep Learning Models**
-- **DNN:** Fully connected neural network with 4 hidden layers **.
-- **CNN:** Extracts spatial features from network traffic **.
-- **LSTM:** Captures temporal dependencies **.
-- **GRU:** Optimized for sequence-based intrusion detection **.
-- **Autoencoder:** Unsupervised anomaly detection **.
+- **DNN:** Fully connected neural network with 4 hidden layers.
+- **CNN:** Extracts spatial features from network traffic.
+- **LSTM:** Captures temporal dependencies .
+- **GRU:** Optimized for sequence-based intrusion detection.
+- **Autoencoder:** Unsupervised anomaly detection .
 
 ---
 
@@ -95,5 +95,5 @@ This project is released under the **MIT License**.
 
 ## **📞 Contact**
 👩‍💻 **Anubha Gupta**  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📧 Email: [ganubha30@gmail.com](mailto:ganubha30@gmail.com)  
 🔗 GitHub: [AnubhaGupta-15](https://github.com/AnubhaGupta-15)  
